@@ -1,0 +1,13 @@
+{
+    "name": "menglong/algorithm",
+    "description": "algorithm",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Menglong\\Algorithm\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
