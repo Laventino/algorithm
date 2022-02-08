@@ -3,7 +3,7 @@
     "description": "algorithm",
     "type": "library",
     "license": "MIT",
-    "version": "v0.0.1",
+    "version": "0.0.2",
     "autoload": {
         "psr-4": {
             "Menglong\\Algorithm\\": "src/"
